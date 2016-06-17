@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "module": "commonjs",
+        "noEmitOnError": true,
+        "noImplicitAny": true,
+        "experimentalDecorators": true,
+        "sourceMap": true,
+        "sourceRoot": "./",
+        "outDir": "./"
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "test-koa-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-promise": "^0.5.0",
+    "koa": "^2.0.0",
+    "koa-route": "^3.1.0",
+    "supertest": "^1.2.0"
+  }
+}
